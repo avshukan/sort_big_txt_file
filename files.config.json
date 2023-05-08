@@ -1,0 +1,23 @@
+[
+    {
+        "filename": "aaa.txt",
+        "minLineLength": 1,
+        "maxLineLength": 1,
+        "minLinesCounter": 10,
+        "maxFileSize": 10000
+    },
+    {
+        "filename": "bbb.txt",
+        "minLineLength": 10,
+        "maxLineLength": 20,
+        "minFileSize": 100,
+        "maxFileSize": 200
+    },
+    {
+        "filename": "ccc.txt",
+        "minLineLength": 10,
+        "maxLineLength": 30,
+        "minLinesCounter": 500,
+        "minFileSize": 10000
+    }
+]

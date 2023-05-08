@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "createFiles": "npx tsc --build --force && node ./dist/src/createFiles.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0"
+  }
+}
